@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "SonicScrewdriver V2"
+	"author_name" "DoctorWhoFR"
+	"info" " { 	"description": "Description", 	"type": "tool", 	"tags":  	[ 		"roleplay", 		"realism" 	] }"
+}
